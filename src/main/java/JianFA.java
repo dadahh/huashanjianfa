@@ -13,6 +13,7 @@ public class JianFA {
         System.out.println("222222222222222222");
         System.out.println("222222222222222222");
         System.out.println("222222222222222222");
+        System.out.println("222222222222222222");
 
     }
 }
